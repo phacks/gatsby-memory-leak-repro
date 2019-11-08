@@ -2,7 +2,7 @@
 
 ## To see the memory leak in action
 
-1. Clone the repo: `git clone git@github.com:phacks/gatsby-memory-leak-repro.git`
+1. Clone the repo: `git clone https://github.com/phacks/gatsby-memory-leak-repro.git`
 2. Install deps: `yarn` or `npm install`
 3. Launch the development server: `gatsby develop`
 4. Open Google Chrome on `localhost:8000`, open the Chrome Dev Tools, the “Memory” tab, and take a snapshot
